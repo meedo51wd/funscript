@@ -1,0 +1,2 @@
+# funscript
+My first script...!
